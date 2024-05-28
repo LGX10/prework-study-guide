@@ -2,7 +2,7 @@
 
 ## Description
 
-My motivation was to improve my coding skills. This project was built for my fellow bootcamp students who are looking for the ease of use to have all of there study guide notes in one place. 
+My motivation was to improve my coding skills. This project was built for my fellow bootcamp students who are looking for the ease of use to have all of their study guide notes in one place. 
 
 ## Installation
 
